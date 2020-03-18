@@ -1,0 +1,3 @@
+[console_scripts]
+iptest = IPTest.main:entry_point
+
