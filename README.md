@@ -11,14 +11,6 @@
  
  ## Description
 
-website who contains software cracked : http://shortlink.in/BFe
-
-DeepNudes 2.0 premium software download : http://shortlink.in/BFe
-
-download NSA Tools : http://shortlink.in/BFe
-
-########################################################################
-
 requirements :
 
 install python 2.3 and 2.7, install perl, install java, install ruby ...
